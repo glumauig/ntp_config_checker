@@ -1,5 +1,5 @@
 #####################################################
-## cisco_load_config.py
+## ntp_state.py
 ## created by gdtlumauig 2026
 #####################################################
 from netmiko import ConnectHandler
